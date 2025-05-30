@@ -1,6 +1,6 @@
 h1 {
   color: #000000;
-  text-decoration: overline underline 10px black dashed;
+  text-decoration: overline underline 10px black dotted;
   letter-spacing: -2px;
   word-spacing: 10px;
   text-shadow: 2px 5px 10px red;
@@ -10,7 +10,7 @@ body {
 }
 img:hover {
   width:300px;
-  border: black 10px;
+  border: black dotted 10px;
   border-radius: 70%;
 }
 h1:hover {
