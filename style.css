@@ -6,7 +6,7 @@ h1 {
   text-shadow: 2px 5px 10px red;
 }
 body {
-  background-color: red;
+  background-color: darkRed;
 }
 img:hover {
   width:300px;
