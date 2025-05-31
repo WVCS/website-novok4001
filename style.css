@@ -9,12 +9,12 @@ body {
   background-color: darkRed;
 }
 img:hover {
-  width:500px;
+  width:580px;
   border: black dashed 10px;
   border-radius: 70%;
 }
 h1:hover {
-  width:400px;
+  width:450px;
   font-size:400%;
 }
 
