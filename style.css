@@ -9,7 +9,7 @@ body {
   background-color: darkRed;
 }
 img:hover {
-  width:400px;
+  width:500px;
   border: black dashed 10px;
   border-radius: 70%;
 }
