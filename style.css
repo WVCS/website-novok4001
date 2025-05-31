@@ -10,7 +10,7 @@ body {
 }
 img:hover {
   width:400px;
-  border: black dotted 10px;
+  border: black dashed 10px;
   border-radius: 70%;
 }
 h1:hover {
